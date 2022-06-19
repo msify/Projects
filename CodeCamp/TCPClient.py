@@ -14,7 +14,7 @@ clientsocket.bind(host, port)
 //connects to the socket
 clientsocket.connect((host ,port))
 
-//limits the message recived 
+//limits the data amount that can recieved at once
 message = clientsocket.recv(1024)
 
 clientsocket.close()
