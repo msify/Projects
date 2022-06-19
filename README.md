@@ -1,2 +1,2 @@
 # Projects
-Some interesting projects I will be making as part of my career and academic development
+Some interesting projects for my academic development
