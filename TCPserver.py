@@ -16,5 +16,5 @@ while True:
   
   
   message = 'thank you for connecting to the server' + '\r\n'
-  clientsocket.send(message)
+  clientsocket.send(message.encode('ascii')
   clientsocket.close()
